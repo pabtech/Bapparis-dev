@@ -1,4 +1,4 @@
-<h1 align="center">Abdullahi Dahiru</h1>
+<h1 align="center">Abdool Paris</h1>
 
 <p align="center">
   Full-Stack Engineer • Web3 Builder • Fintech Systems Developer
