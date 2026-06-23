@@ -56,11 +56,11 @@
 ## 📊 GitHub Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pariscodes&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pabtech&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pariscodes&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pabtech&theme=radical" />
 </p>
 
 ---
@@ -68,4 +68,4 @@
 ## 📫 Contact
 
 - Email: bapparisdev@gmail.com pabtechs@gmail.com
-- GitHub: https://github.com/pariscodes
+- GitHub: https://github.com/pabtech
