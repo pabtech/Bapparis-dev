@@ -1,4 +1,4 @@
-<h1 align="center">Abdool Paris</h1>
+<h1 align="center">Abdullahi Dahiru</h1>
 
 <p align="center">
   Full-Stack Engineer • Web3 Builder • Fintech Systems Developer
@@ -56,11 +56,11 @@
 ## 📊 GitHub Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bapparis-dev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pariscodes&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bapparis-dev&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pariscodes&theme=radical" />
 </p>
 
 ---
@@ -68,4 +68,4 @@
 ## 📫 Contact
 
 - Email: bapparisdev@gmail.com pabtechs@gmail.com
-- GitHub: https://github.com/bapparis-dev
+- GitHub: https://github.com/pariscodes
